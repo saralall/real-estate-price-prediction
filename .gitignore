@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+*data/
+P176B104_Engineering project.pdf
+.~lock.properties.csv#
+*images/
+*.pdf
+
+
 # C extensions
 *.so
 
