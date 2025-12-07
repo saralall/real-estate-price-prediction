@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-*data/
+data/descriptions.tar.gz
 P176B104_Engineering project.pdf
 .~lock.properties.csv#
 *images/
