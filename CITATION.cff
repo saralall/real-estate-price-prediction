@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Real Estate Price Prediction (Southern Spain 2024)"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Lall"
+    given-names: "Sara"
+  - family-names: "Oliinyk"
+    given-names: "Leonid"
+    orcid: "https://orcid.org/0009-0000-9392-2271"
+version: 1.0.0
+date-released: 2025-12-11
+abstract: "A machine learning pipeline for predicting real estate prices in Southern Spain using 2024 data. The project features a comparative analysis of Linear Regression, XGBoost, and Neural Network, along with a Streamlit web interface for deployment."
+keywords:
+  - "machine learning"
+  - "real estate"
+  - "price prediction"
+  - "python"
+  - "streamlit"
+  - "xgboost"
+license: "MIT License"
+repository-code: "https://github.com/leo-oli/real-estate-prediction"
